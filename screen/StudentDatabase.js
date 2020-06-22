@@ -10,7 +10,7 @@ class StudentDatabase extends Component{
     marked:null,
     dates :[],
     unique_date:[],
-    present:'10',
+    present:'',
     class:'',
     class_num:[],
     storageName : this.props.navigation.state.params.TableName +
